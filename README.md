@@ -4,7 +4,7 @@ Module 3: PyPoll with Python
 Importing election data from .csv file, analysis in Python, writing output to .txt file
 
 
-
+------------------------------
 In this project, our final Python script will need to be able to deliver the following information when the script is run: 
 
   Total number of votes cast
